@@ -14,6 +14,6 @@ NIGERIA_covid19.csv
 WHO-COVID-19 DATA.csv
 
 # LINKS
-https://ourworldindata.org/coronavirus-source-data
-https://covid19.ncdc.gov.ng/
+https://ourworldindata.org/coronavirus-source-data -data was collected on 13-01-2021
+https://covid19.ncdc.gov.ng/ - data was collected on 14-01-2021
 
