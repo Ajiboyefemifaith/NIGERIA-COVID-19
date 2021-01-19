@@ -1,2 +1,2 @@
 # NIGERIA-COVID-19
-A time series and exploratory data analysis on COVID-19 cases in Nigeria
+A Time Series and Exploratory Data Analysis on COVID-19 cases in Nigeria
